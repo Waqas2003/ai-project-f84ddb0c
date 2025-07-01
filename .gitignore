@@ -1,0 +1,4 @@
+node_modules
+```
+
+Run `npm start` to start the development server. Open `http://localhost:3000` in your browser to see the Pakistani flag.
